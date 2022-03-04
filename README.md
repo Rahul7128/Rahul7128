@@ -7,7 +7,6 @@
 [![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-sangwan-1a7097230)](https://www.linkedin.com/in/rahul-sangwan-1a7097230/)
 ![GitHub followers](https://img.shields.io/github/followers/rahul7128?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=rahul7128.rahul7128)
-![Waka Readme](https://github.com/rahul7128/rahul7128/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
