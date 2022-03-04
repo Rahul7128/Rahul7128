@@ -3,8 +3,8 @@
 <p><em>First year Engineering student</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=sangwan_24)
-[![Linkedin: rahul](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sangwan_24?label=Follow)](https://twitter.com/intent/follow?screen_name=sangwan_24)
+[![Linkedin: rahul](https://img.shields.io/badge/-rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-sangwan-1a7097230)](https://www.linkedin.com/in/rahulsangwan/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
@@ -28,7 +28,7 @@ npx anmol
 ```javascript
 const rahul = {
     pronouns: "He" | "Him",
-    code: ["Python", "C", "Flutter"],
+    code: ["Python", "C", "Flutter", "Flask"],
     askMeAbout: ["web dev", "tech", "app dev", "cyber security"],
     technologies: {
         backEnd: {
@@ -37,12 +37,9 @@ const rahul = {
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
+    currentFocus: "Seeking knowledge for various development oriented languages",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
