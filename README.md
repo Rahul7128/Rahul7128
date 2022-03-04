@@ -31,7 +31,7 @@ const rahul = {
         },
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Seeking knowledge for various development oriented languages",
+    currentFocus: "Discovering various development oriented languages",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
