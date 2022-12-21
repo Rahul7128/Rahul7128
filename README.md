@@ -20,7 +20,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const rahul = {
     pronouns: "He" | "Him",
-    code: ["Python", "C", "Flutter", "Flask"],
+    code: ["Python", "C", "Flutter", "Flask", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "cyber security"],
     technologies: {
         backEnd: {
@@ -46,7 +46,7 @@ const rahul = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
 > 📦 0 kB Used in GitHub's Storage 
  > 
